@@ -1,0 +1,27 @@
+body {
+text-align:center ;
+}
+#section1 {
+width: 100% ;
+height: 500px ;
+background:linear-gradient(pink 50%, yellow 50%) ;
+}
+.Hani {
+width: 250px ;
+height: 250px ;
+border-radius: 10% ; 
+border-color: black ;
+border-style: solid;
+}
+p {
+text-align: center ;
+font-family: sans-serif ;
+max-width: 400px ;
+margin: 8px auto ;
+}
+.line {
+height: 6px ;
+width: 70px ;
+background-color: lightcyan;
+margin: 8px auto ;
+}
